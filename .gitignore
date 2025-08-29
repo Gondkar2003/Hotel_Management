@@ -1,0 +1,25 @@
+﻿# Gradle
+.gradle/
+build/
+out/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & compiled
+*.log
+*.class
+*.jar
+*.war
+*.ear
+
+# Local env & secrets
+.env
+src/main/resources/application.properties
+src/main/resources/application.yml
